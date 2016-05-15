@@ -6,5 +6,6 @@ I'm a uber novice programmer with a background in Java.  I learned Java through 
 
 I love the idea of connecting code and art, as well as interpreting real life situations in a computer based language and vice versa.
 
-Cheers'
+Cheers,
+
 Sebspll
